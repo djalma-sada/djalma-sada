@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil 🖤
 
-<!--
-**djalma-sada/djalma-sada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é djalma blackstone
 
-Here are some ideas to get you started:
+- estou estudando no [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce pode entrar em contato comigo 📫
+
+- 00001115030929sp@al.educacao.sp.gov.br
+- 
+- @djalma-marquis
+
+![](<img src="https://media1.tenor.com/m/yDsm0mudqj0AAAAC/arthur-morgan-and-john-marston.gif" alt="Arthur Morgan And John Marston GIF"/>![image](https://github.com/user-attachments/assets/e44a53f4-6ebb-4e72-8d26-5d4af7f8ae48)
+)
